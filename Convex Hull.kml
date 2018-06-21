@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>The Mirage - Home</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2829815,34.0276986</coordinates></Point>
+</Placemark>
+<Placemark><name>Norris Cinema Theatre</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2844431,34.02169099</coordinates></Point>
+</Placemark>
+<Placemark><name>Hancock Foundation</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2851282,34.0197376</coordinates></Point>
+</Placemark>
+<Placemark><name>Expo/USC Metro Station</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2858818,34.0190092</coordinates></Point>
+</Placemark>
+<Placemark><name>Jefferson Blvd</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2900723,34.0251985</coordinates></Point>
+</Placemark>
+<Placemark><name>Shrine</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2825248,34.022709</coordinates></Point>
+</Placemark>
+<Placemark><name>SAL</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2896727,34.0197043</coordinates></Point>
+</Placemark>
+<Placemark><name>Leavey Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2827988,34.0217199</coordinates></Point>
+</Placemark>
+<Placemark><name>Downey Way Structure</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2897298,34.0207809</coordinates></Point>
+</Placemark>
+
+<Placemark> 
+ <Polygon> 
+ <outerBoundaryIs>  
+ <LinearRing>  
+  <coordinates>
+   -118.2858818, 34.0190092, 500 
+   -118.2896727, 34.0197043, 500
+   -118.2900723, 34.0251985, 500
+   -118.2829815, 34.0276986, 500
+   -118.2825248, 34.022709, 500
+   -118.2827988, 34.0217199, 500
+   -118.2858818, 34.0190092, 500
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ 
+ <Style> 
+  <PolyStyle>  
+   <color>#a00000ff</color>
+  <outline>0</outline>
+  </PolyStyle> 
+ </Style>
+</Placemark>
+
+
+</Document></kml>
